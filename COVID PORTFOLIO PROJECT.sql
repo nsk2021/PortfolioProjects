@@ -77,7 +77,6 @@ where d.continent is not null
 order by 2,3
 
 -- Looking at total population vs vaccinations by running total of new vaccinations
--- sum(convert(int,v.new_vaccinations)) >> same as cast
 
 select d.continent,d.location,d.date,d.population, v.new_vaccinations, 
 sum(cast(v.new_vaccinations as int)) over (partition by d.location order by d.location,d.date ) as RunningTotalofVaccinations
@@ -88,7 +87,6 @@ where d.continent is not null
 order by 2,3
 
 -- USE CTE to find % of vaccinated over total population (METHOD 1)
--- Run select queries wrote along with CTE, Can't use order by in CTE
 
 With PopvsVac (Continent,Location,Date,Population,New_Vaccinations,RunningTotalofVaccinations)
 AS
@@ -104,7 +102,6 @@ where d.continent is not null
 select *,(RunningTotalofVaccinations/population)*100 as PercentageVaccinated from PopvsVac
 
 -- Using TEMP Table (Method 2)
--- DROP TABLE IF EXISTS >> When you are changing anything in temp table then it will delete and create table again if exists
 
 DROP TABLE IF EXISTS #PercentPeopleVaccinated
 CREATE TABLE #PercentPeopleVaccinated
@@ -128,7 +125,7 @@ select *,(RunningTotalofVaccinations/population)*100 as PercentageVaccinated fro
 WHERE Location IN ('INDIA')
 ORDER BY 2,3
 
--- Creating view (ORDER BY CANNOT BE USED)
+-- Creating view
 
 create view PercentPeopleVaccinated AS 
 select d.continent,d.location,d.date,d.population, v.new_vaccinations, 
