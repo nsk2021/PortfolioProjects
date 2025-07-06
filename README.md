@@ -12,7 +12,7 @@ Welcome! This repository features a curated collection of data analytics project
 - **File**: `Baseball_Last_Pitch.sql`
 
 ### 2. 🦠 COVID-19 Global Analysis
-- **Goal**: Analyze infection and mortality trends globally using structured COVID data.
+- **Goal**: Analyze global trends in infection and mortality using structured COVID-19 data.
 - **Skills**: Joins, window functions, subqueries.
 - **File**: `Covid_Data_Exploration.sql`
 - **Dashboard**: See below.
@@ -28,7 +28,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ### 1. 🌍 COVID-19 Impact Dashboard – Tableau
 
-![COVID Dashboard](images/Analysis.png)
+![COVID Dashboard](./Covid_Analysis.png)
 
 - **Insights**: Shows total deaths by continent, infection rates by country, and time-based infection trends.
 - **Link**: *Add Tableau Public link here if published*
@@ -37,7 +37,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ### 2. ✈️ British Airways Review Dashboard – Tableau
 
-![British Airways Review](British Airways Review.png)
+![British Airways Review](./British_Airways_Review.png)
 
 - **Insights**: Tracks average ratings by month, region, and aircraft type based on traveler feedback.
 - **Focus**: Service quality, entertainment, food, seat comfort across different flights and aircraft models.
@@ -47,7 +47,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ### 3. 🏠 King County Housing Market – Tableau
 
-![House Sales](images/House_Sales.png)
+![House Sales](./House_Sales.png)
 
 - **Insights**: Interactive dashboard showing sales prices, condition heatmaps, and distribution by bedrooms/bathrooms.
 - **Focus**: Identify price trends by location and home features.
@@ -60,7 +60,7 @@ Welcome! This repository features a curated collection of data analytics project
 - **Source**: [Dashboard.pdf](./Dashboard.pdf)
 - **Key Metrics**:
   - Orders by region and segment
-  - Profit trends over years
+  - Profit trends over the years
   - High-performing states and products
 - **Screenshot not embedded due to format**: Open the PDF in the repo to view visuals.
 
@@ -68,7 +68,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ## 📄 Resume
 
-- [Sai Kalyan Nadella_Resume.pdf](./Sai Kalyan_Nadella_Resume_C.pdf)
+- [Sai Kalyan Nadella_Resume.pdf](./Sai_Kalyan_Nadella_Resume_C.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ## 📬 Contact
 
-- 📧 Email: [nskalyan9@gmail.com](mailto:nskalyan9@gmail.com)
+- 📧 Email: [nskalyan9@gmail.com](mailto:saikalyan384@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/saikalyannadella](https://www.linkedin.com/in/saikalyannadella)
 
 ---
