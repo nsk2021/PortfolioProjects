@@ -77,8 +77,8 @@ Healthcare IT, SaaS, CRM Systems, Clinical Research, Public Sector, EdTech, Fina
 - *Data Decision-Making and Communication for Leaders* – LinkedIn Learning (Jun 2025)  
 - *Introduction to Data Warehouses* – LinkedIn Learning (Jun 2025)  
 - *Learning SQL Programming* – LinkedIn Learning (Feb 2025)  
-- *Databricks Fundamentals – Academy Accreditation* – Databricks (Jan 2025 – Jan 2026)  
-- *Generative AI Fundamentals – Academy Accreditation* – Databricks (Jan 2025 – Jan 2027)  
+- *Databricks Fundamentals – Academy Accreditation* – Databricks  
+- *Generative AI Fundamentals – Academy Accreditation* – Databricks 
 
 **📊 BI & Data Platforms**
 - *Learning SnowflakeDB* – LinkedIn Learning (Jun 2025)  
@@ -87,7 +87,7 @@ Healthcare IT, SaaS, CRM Systems, Clinical Research, Public Sector, EdTech, Fina
 - *SharePoint Online Essential Training: Basics & Beyond* – LinkedIn Learning (Feb 2025)  
 
 **📈 Product & Strategy**
-- *Certified Scrum Product Owner® (CSPO)* – Scrum Alliance (Sep 2024 – Sep 2026)  
+- *Certified Scrum Product Owner® (CSPO)* – Scrum Alliance  
 - *Product Analytics Micro-Certification (PAC)™* – Product School (Jun 2025)  
 - *Product Prioritization Micro-Certification (PPC)™* – Product School (Jun 2025)  
 - *Product Analytics* – Pendo.io (Jan 2025)  
