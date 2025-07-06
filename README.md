@@ -14,25 +14,25 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
 - **Jun 2024 – Dec 2024 | Product Owner Intern, Public Consulting Group**  
   Led CRM feature rollout and BI transformation-launched 3 Power BI dashboards, streamlined UAT, and improved data visibility for 4 departments.
 
-- **Jun 2024 – Dec 2024 | Product Analyst, PCG**  
-  Delivered insights from user behavior logs and sprint retros; led QA optimization that reduced testing time by 30% across Dynamics 365.
-
 - **Jan 2024 – May 2024 | Product Manager, Koa Health**  
   Improved retention by 12% via cohort-based A/B testing; helped shape product roadmap through behavioral and CRM analysis.
 
 - **Aug 2023 – Dec 2023 | Product Manager, ClassBank**  
   Delivered competitor benchmarking report and GTM strategy adopted by ClassBank’s leadership for EdTech pilot adoption.
 
-- **Dec 2023 – Jan 2024 | Strategy Consultant, Capchase**  
+- **Dec 2023 – Jan 2024 | Product Manager, Capchase**  
   Developed SaaS revenue lifecycle models from market and stakeholder research, unlocking a 10% customer acquisition lift.
 
-- **Oct 2023 – Dec 2023 | Strategy Consultant, Sub22**  
+- **Oct 2023 – Dec 2023 | Strategy Consultant, Sub22 Technologies**  
   Designed a Medicare compliance strategy that reduced regulatory risk exposure by 30%.
 
-- **Mar 2022 – Jul 2023 | BI Analyst, Tiger Analytics**  
+- **Aug 2023 – Oct 2023 | Strategy Consultant, Johns Hopkins Hospital**  
+  Identified a 40% compliance gap in sterilization processes through root cause analysis; introduced SOP updates and pre-op checklists, reducing surgical turnover time and improving operational efficiency.
+
+- **Mar 2022 – Jul 2023 | Business Analyst, Tiger Analytics**  
   Owned exception reporting and Snowflake pipelines powering $500K+ in data-driven supply chain decisions; slashed manual reporting by 90%.
 
-- **Dec 2019 – Feb 2022 | Project Associate, IQVIA**  
+- **Dec 2019 – Feb 2022 | Project Management Associate, IQVIA**  
   Led clinical data governance and automation for healthcare analytics tools across 8+ programs; improved data accuracy by 40%.
 
 ---
