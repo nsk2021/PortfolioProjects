@@ -47,7 +47,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ### 4. 📦 Superstore Orders Report – Looker Studio
 
-- **Source**: [Dashboard.pdf](./Orders_Report.pdf)
+- **Source**: [Superstore Orders Report.pdf](./Orders_Report.pdf)
 - **Key Metrics**:
   - Orders by region and segment
   - Profit trends over the years
