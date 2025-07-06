@@ -2,7 +2,7 @@
 
 I’m **Sai Kalyan Nadella**, a CSPO-certified product and analytics leader with 4+ years of experience building data-driven products, streamlining operations, and driving cross-functional execution across SaaS, healthcare, public sector, and consulting environments.  
 
-I bring a rare blend of **strategic thinking, executional rigor, and technical fluency**—having scaled reporting systems, launched new features, led user research, and implemented end-to-end automation across BI, product, and CRM systems. Whether launching go-to-market roadmaps or translating executive goals into sprint-ready tasks, I thrive at the intersection of **product, data, and outcomes**.
+I bring a rare blend of **strategic thinking, executional rigor, and technical fluency-having scaled reporting systems, launched new features, led user research, and implemented end-to-end automation across BI, product, and CRM systems. Whether launching go-to-market roadmaps or translating executive goals into sprint-ready tasks, I thrive at the intersection of **product, data, and outcomes**.
 
 ---
 
@@ -12,7 +12,7 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
   Built cross-org dashboard strategy to accelerate executive decision-making, cutting time-to-insight by 25%.
 
 - **Jun 2024 – Dec 2024 | Product Owner Intern, Public Consulting Group**  
-  Led CRM feature rollout and BI transformation—launched 3 Power BI dashboards, streamlined UAT, and improved data visibility for 4 departments.
+  Led CRM feature rollout and BI transformation-launched 3 Power BI dashboards, streamlined UAT, and improved data visibility for 4 departments.
 
 - **Jun 2024 – Dec 2024 | Product Analyst, PCG**  
   Delivered insights from user behavior logs and sprint retros; led QA optimization that reduced testing time by 30% across Dynamics 365.
