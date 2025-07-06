@@ -71,8 +71,7 @@ Automates data retrieval from a live API, appends new data to an existing datase
 Analyzes top-rated movie data using `Pandas` and `Matplotlib` to uncover genre trends, rating distributions, and studio performance.  
 - **Insight**: Found that drama and biography genres dominate high IMDB ratings, while a few key studios account for the majority of top-performing films.
 
----
-## 🏘️ US Housing Market Dashboard (Shiny for Python)
+### 4. 🏘️ US Housing Market Dashboard (Shiny for Python)
 
 An interactive web application built using [Shiny for Python](https://shiny.posit.co/py/), designed to visualize and analyze housing trends across the United States using Zillow data.
 
