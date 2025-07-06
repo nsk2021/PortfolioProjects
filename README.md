@@ -60,7 +60,7 @@ Welcome! This repository features a curated collection of data analytics project
 Each project demonstrates real-world use of Python for web scraping, automation, and data storytelling.
 
 ### 1. 🛒 Amazon Web Scraper  
-Scrapes real-time product listings from Amazon using `BeautifulSoup` and `requests`. Extracts product titles, prices, and ratings into structured CSV format.  
+Scrapes real-time product listings from Amazon using `BeautifulSoup` and `requests`. Extracts product titles, prices, and ratings into a structured CSV format.  
 - **Insight**: Revealed price volatility for tech accessories and identified products frequently listed with promotional pricing.
 
 ### 2. 🔄 Automated API Extraction  
@@ -70,6 +70,24 @@ Automates data retrieval from a live API, appends new data to an existing datase
 ### 3. 🎬 Movie Portfolio Analyzer  
 Analyzes top-rated movie data using `Pandas` and `Matplotlib` to uncover genre trends, rating distributions, and studio performance.  
 - **Insight**: Found that drama and biography genres dominate high IMDB ratings, while a few key studios account for the majority of top-performing films.
+
+---
+## 🏘️ US Housing Market Dashboard (Shiny for Python)
+
+An interactive web application built using [Shiny for Python](https://shiny.posit.co/py/), designed to visualize and analyze housing trends across the United States using Zillow data.
+
+- **Technologies Used**: `pandas`, `plotly`, `shiny`, `shinywidgets`
+- **Data Sources**: Median listing prices, new listings, and inventory by state/month
+- **Features**:
+  - Filter by state and date range
+  - Visualize time series for median list price, inventory, and new listings
+  - Display KPIs like current price and % inventory change
+- **Files**:
+  - `app.py`: Full interactive dashboard
+  - `app_starting_code.py`: Simplified prototype
+
+#### 🔍 Insight:
+Identified post-pandemic price surges and inventory shortages in major U.S. metros like Austin, Miami, and Phoenix. Supports housing market analysis for real estate firms and public policy research.
 
 ---
 
