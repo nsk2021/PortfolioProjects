@@ -6,34 +6,51 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
 
 ---
 
-### 🧑‍💼 Experience Timeline
+### 🧑‍💼 Experience
 
-- **Feb 2025 – Present | Executive Project Manager, Community Dreams Foundation**  
-  Built org-wide dashboard strategy using Google Sheets & Tableau, reducing executive decision-making time by 25% and automating reporting workflows across HR and Finance.
+### 🧑‍💼 Experience
 
-- **Jun 2024 – Dec 2024 | Product Owner Intern, Public Consulting Group**  
+### 🧠 Product & Strategy
+
+- **Executive Project Manager, Community Dreams Foundation (Feb 2025 – Present)**  
+  Built org-wide dashboard strategy using Google Sheets & Looker Studio, reducing executive decision-making time by 25% and automating reporting workflows across HR and Finance.
+
+- **Product Owner Intern, Public Consulting Group (Jun 2024 – Dec 2024)**  
   Led CRM feature rollout using Power Platform (Power BI, Power Automate), launched 3 dashboards, and improved UAT efficiency by 30% across 4 departments.
 
-- **Jan 2024 – May 2024 | Product Manager, Koa Health**  
+- **Product Manager, Koa Health (Jan 2024 – May 2024)**  
   Improved CRM campaign retention by 12% through A/B testing and cohort analysis; leveraged SQL and Tableau to inform roadmap decisions and user behavior insights.
 
-- **Aug 2023 – Dec 2023 | Product Manager, ClassBank**  
-  Delivered competitive benchmarking report and GTM strategy adopted for pilot; used primary interviews, SWOT, and pricing analysis to shape product-market fit.
-
-- **Dec 2023 – Jan 2024 | Product Manager, Capchase**  
+- **Product Manager, Capchase (Dec 2023 – Jan 2024)**  
   Modeled SaaS revenue lifecycle using Python and Excel from market research and stakeholder interviews, driving a 10% lift in customer acquisition.
 
-- **Oct 2023 – Dec 2023 | Strategy Consultant, Sub22 Technologies**  
+- **Product Manager, ClassBank (Aug 2023 – Dec 2023)**  
+  Delivered competitive benchmarking report and GTM strategy adopted for pilot; used primary interviews, SWOT, and pricing analysis to shape product-market fit.
+
+---
+
+### 🧩 Strategy Consulting
+
+- **Strategy Consultant, Sub22 Technologies (Oct 2023 – Dec 2023)**  
   Built Medicare compliance strategy using policy research and stakeholder mapping, reducing regulatory risk by 30%.
 
-- **Aug 2023 – Oct 2023 | Strategy Consultant, Johns Hopkins Hospital**  
+- **Strategy Consultant, Johns Hopkins Hospital (Aug 2023 – Oct 2023)**  
   Identified 40% sterilization compliance gap via process mapping and root cause analysis; implemented SOP updates using Visio and Excel to reduce turnover time.
 
-- **Mar 2022 – Jul 2023 | Business Analyst, Tiger Analytics**  
+---
+
+### 📊 Data & Business Analytics
+
+- **Business Analyst, Tiger Analytics (Mar 2022 – Jul 2023)**  
   Developed Tableau dashboards and Snowflake data pipelines for supply chain KPIs; reduced manual reporting by 90% and enabled $500K+ in data-backed decisions.
 
-- **Dec 2019 – Feb 2022 | Project Management Associate, IQVIA**  
+---
+
+### 🏥 Healthcare & Project Management
+
+- **Project Management Associate, IQVIA (Dec 2019 – Feb 2022)**  
   Automated clinical data quality checks using SQL, Excel VBA, and Tableau; boosted reporting accuracy by 40% across 8+ healthcare analytics programs.
+
 
 ---
 
