@@ -6,7 +6,7 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
 
 ---
 
-#### 🧑‍💼 Experience Timeline
+#### 🧑‍💼 Experience
 
 - **Feb 2025 – Present | Executive Project Manager, Community Dreams Foundation**  
   Built cross-org dashboard strategy to accelerate executive decision-making, cutting time-to-insight by 25%.
