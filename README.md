@@ -68,7 +68,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ## 📄 Resume
 
-- [Sai Kalyan Nadella_Resume.pdf](./Sai%20Kalyan%20Nadella_Resume.pdf)
+- [Sai Kalyan Nadella_Resume.pdf](./Sai Kalyan_Nadella_Resume_C.pdf)
 
 ---
 
