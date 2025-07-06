@@ -8,8 +8,6 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
 
 ### 🧑‍💼 Experience
 
-### 🧑‍💼 Experience
-
 ### 🧠 Product & Strategy
 
 - **Executive Project Manager, Community Dreams Foundation (Feb 2025 – Present)**  
