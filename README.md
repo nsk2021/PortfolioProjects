@@ -2,7 +2,7 @@
 
 I’m **Sai Kalyan Nadella**, a CSPO-certified product and analytics leader with 4+ years of experience building data-driven products, streamlining operations, and driving cross-functional execution across SaaS, healthcare, public sector, and consulting environments.  
 
-I bring a rare blend of **strategic thinking, executional rigor, and technical fluency-having scaled reporting systems, launched new features, led user research, and implemented end-to-end automation across BI, product, and CRM systems. Whether launching go-to-market roadmaps or translating executive goals into sprint-ready tasks, I thrive at the intersection of **product, data, and outcomes**.
+I bring a rare blend of strategic thinking, executional rigor, and technical fluency-having scaled reporting systems, launched new features, led user research, and implemented end-to-end automation across BI, product, and CRM systems. Whether launching go-to-market roadmaps or translating executive goals into sprint-ready tasks, I thrive at the intersection of **product, data, and outcomes**.
 
 ---
 
