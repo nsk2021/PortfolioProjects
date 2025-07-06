@@ -37,7 +37,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 ### 2. ✈️ British Airways Review Dashboard – Tableau
 
-![British Airways Review](images/British_Airways_Review.png)
+![British Airways Review](British Airways Review.png)
 
 - **Insights**: Tracks average ratings by month, region, and aircraft type based on traveler feedback.
 - **Focus**: Service quality, entertainment, food, seat comfort across different flights and aircraft models.
