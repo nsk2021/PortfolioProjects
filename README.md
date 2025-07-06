@@ -25,7 +25,7 @@ Welcome! This repository features a curated collection of data analytics project
 ### 1. 🌍 COVID-19 Impact Dashboard – Tableau
 
 - **Insights**: Shows total deaths by continent, infection rates by country, and time-based infection trends.
-- **Link**: *Add Tableau Public link here if published*
+- **Link**: https://public.tableau.com/app/profile/sai.kalyan6026/viz/CovidDashboard_16265436450730/Analysis
 
 ---
 
@@ -33,7 +33,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 - **Insights**: Tracks average ratings by month, region, and aircraft type based on traveler feedback.
 - **Focus**: Service quality, entertainment, food, seat comfort across different flights and aircraft models.
-- **Link**: *Add Tableau Public link here if published*
+- **Link**: https://public.tableau.com/app/profile/sai.kalyan6026/viz/BritishAirwaysDashboard_17355860199920/BritishAirwaysReview
 
 ---
 
@@ -41,7 +41,7 @@ Welcome! This repository features a curated collection of data analytics project
 
 - **Insights**: Interactive dashboard showing sales prices, condition heatmaps, and distribution by bedrooms/bathrooms.
 - **Focus**: Identify price trends by location and home features.
-- **Link**: *Add Tableau Public link here if published*
+- **Link**: https://public.tableau.com/app/profile/sai.kalyan6026/viz/KingCountyHouseSales_17361176586450/HouseSales
 
 ---
 
