@@ -51,11 +51,6 @@ Microsoft Dynamics 365, Aha!, JIRA, Confluence, Power Automate, Git, Google Anal
 **Sectors**  
 Healthcare IT, SaaS, CRM Systems, Clinical Research, Public Sector, EdTech, Financial Analytics, Real Estate Data
 
-
-# 🧠 Data Analytics Portfolio by Sai Kalyan Nadella
-
-Welcome! This repository features a curated collection of data analytics projects that demonstrate my ability to work with SQL, clean and transform datasets, and build actionable dashboards using Tableau and Looker Studio. Each project reflects a real-world scenario, from healthcare to airline reviews to housing markets.
-
 ---
 
 ### 🎓 Certifications
@@ -85,6 +80,12 @@ Welcome! This repository features a curated collection of data analytics project
 
 **🔧 Process & Efficiency**
 - *Six Sigma Foundations* – LinkedIn Learning (Feb 2025)
+
+---
+
+# 🧠 Data Analytics Portfolio by Sai Kalyan Nadella
+
+Welcome! This repository features a curated collection of data analytics projects that demonstrate my ability to work with SQL, clean and transform datasets, and build actionable dashboards using Tableau and Looker Studio. Each project reflects a real-world scenario, from healthcare to airline reviews to housing markets.
 
 ---
 
