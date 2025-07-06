@@ -1,4 +1,4 @@
-<h2>😋 About Me</h2>
+<h2>🎖️ About Me</h2>
 <p>
 I’m <strong>Sai Kalyan Nadella</strong>, a CSPO-certified product and analytics leader with 4+ years of experience building data-driven products, streamlining operations, and driving cross-functional execution across SaaS, healthcare, public sector, and consulting environments.
 </p>
