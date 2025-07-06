@@ -1,6 +1,90 @@
+### 🙋‍♂️ About Me
+
+I’m **Sai Kalyan Nadella**, a CSPO-certified product and analytics leader with 4+ years of experience building data-driven products, streamlining operations, and driving cross-functional execution across SaaS, healthcare, public sector, and consulting environments.  
+
+I bring a rare blend of **strategic thinking, executional rigor, and technical fluency**—having scaled reporting systems, launched new features, led user research, and implemented end-to-end automation across BI, product, and CRM systems. Whether launching go-to-market roadmaps or translating executive goals into sprint-ready tasks, I thrive at the intersection of **product, data, and outcomes**.
+
+---
+
+#### 🧑‍💼 Experience Timeline
+
+- **Feb 2025 – Present | Executive Project Manager, Community Dreams Foundation**  
+  Built cross-org dashboard strategy to accelerate executive decision-making, cutting time-to-insight by 25%.
+
+- **Jun 2024 – Dec 2024 | Product Owner Intern, Public Consulting Group**  
+  Led CRM feature rollout and BI transformation—launched 3 Power BI dashboards, streamlined UAT, and improved data visibility for 4 departments.
+
+- **Jun 2024 – Dec 2024 | Product Analyst, PCG**  
+  Delivered insights from user behavior logs and sprint retros; led QA optimization that reduced testing time by 30% across Dynamics 365.
+
+- **Jan 2024 – May 2024 | Product Manager, Koa Health**  
+  Improved retention by 12% via cohort-based A/B testing; helped shape product roadmap through behavioral and CRM analysis.
+
+- **Aug 2023 – Dec 2023 | Product Manager, ClassBank**  
+  Delivered competitor benchmarking report and GTM strategy adopted by ClassBank’s leadership for EdTech pilot adoption.
+
+- **Dec 2023 – Jan 2024 | Strategy Consultant, Capchase**  
+  Developed SaaS revenue lifecycle models from market and stakeholder research, unlocking a 10% customer acquisition lift.
+
+- **Oct 2023 – Dec 2023 | Strategy Consultant, Sub22**  
+  Designed a Medicare compliance strategy that reduced regulatory risk exposure by 30%.
+
+- **Mar 2022 – Jul 2023 | BI Analyst, Tiger Analytics**  
+  Owned exception reporting and Snowflake pipelines powering $500K+ in data-driven supply chain decisions; slashed manual reporting by 90%.
+
+- **Dec 2019 – Feb 2022 | Project Associate, IQVIA**  
+  Led clinical data governance and automation for healthcare analytics tools across 8+ programs; improved data accuracy by 40%.
+
+---
+
+### 🧰 What I Bring to the Table
+
+**Product Strategy & Delivery**  
+Agile (Scrum/Kanban), Roadmapping, User Stories, GTM, UAT/QA, Feature Prioritization, Stakeholder Alignment, Cross-functional Leadership
+
+**Data & BI Analytics**  
+SQL, Python (Pandas, Matplotlib), Tableau, Power BI, Snowflake, A/B Testing, Regression, Root Cause Analysis, Automated Dashboards
+
+**Tools & Platforms**  
+Microsoft Dynamics 365, Aha!, JIRA, Confluence, Power Automate, Git, Google Analytics, AWS, Looker Studio, Remedyforce
+
+**Sectors**  
+Healthcare IT, SaaS, CRM Systems, Clinical Research, Public Sector, EdTech, Financial Analytics, Real Estate Data
+
+
 # 🧠 Data Analytics Portfolio by Sai Kalyan Nadella
 
 Welcome! This repository features a curated collection of data analytics projects that demonstrate my ability to work with SQL, clean and transform datasets, and build actionable dashboards using Tableau and Looker Studio. Each project reflects a real-world scenario, from healthcare to airline reviews to housing markets.
+
+---
+
+### 🎓 Certifications
+
+**🔢 Data & Analytics**
+- *Data Analysis with Python* – freeCodeCamp  
+- *Machine Learning with Python* – freeCodeCamp  
+- *Data Strategy* – LinkedIn Learning (Jun 2025)  
+- *Data Decision-Making and Communication for Leaders* – LinkedIn Learning (Jun 2025)  
+- *Introduction to Data Warehouses* – LinkedIn Learning (Jun 2025)  
+- *Learning SQL Programming* – LinkedIn Learning (Feb 2025)  
+- *Databricks Fundamentals – Academy Accreditation* – Databricks (Jan 2025 – Jan 2026)  
+- *Generative AI Fundamentals – Academy Accreditation* – Databricks (Jan 2025 – Jan 2027)  
+
+**📊 BI & Data Platforms**
+- *Learning SnowflakeDB* – LinkedIn Learning (Jun 2025)  
+- *Microsoft Power Platform Fundamentals (PL-900) Cert Prep: Power Automate* – LinkedIn Learning (Feb 2025)  
+- *Microsoft Power Apps Essential Training* – LinkedIn Learning (Feb 2025)  
+- *SharePoint Online Essential Training: Basics & Beyond* – LinkedIn Learning (Feb 2025)  
+
+**📈 Product & Strategy**
+- *Certified Scrum Product Owner® (CSPO)* – Scrum Alliance (Sep 2024 – Sep 2026)  
+- *Product Analytics Micro-Certification (PAC)™* – Product School (Jun 2025)  
+- *Product Prioritization Micro-Certification (PPC)™* – Product School (Jun 2025)  
+- *Product Analytics* – Pendo.io (Jan 2025)  
+- *Operations Strategy for Business* – LinkedIn Learning (Mar 2025)  
+
+**🔧 Process & Efficiency**
+- *Six Sigma Foundations* – LinkedIn Learning (Feb 2025)
 
 ---
 
