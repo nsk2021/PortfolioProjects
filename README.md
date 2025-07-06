@@ -104,7 +104,7 @@ Identified post-pandemic price surges and inventory shortages in major U.S. metr
 
 ## 📬 Contact
 
-- 📧 Email: [nskalyan9@gmail.com](mailto:saikalyan384@gmail.com)
+- 📧 Email: [saikalyan384@gmail.com](mailto:saikalyan384@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/saikalyannadella](https://www.linkedin.com/in/saikalyannadella)
 
 ---
