@@ -6,34 +6,34 @@ I bring a rare blend of **strategic thinking, executional rigor, and technical f
 
 ---
 
-#### 🧑‍💼 Experience
+### 🧑‍💼 Experience Timeline
 
 - **Feb 2025 – Present | Executive Project Manager, Community Dreams Foundation**  
-  Built cross-org dashboard strategy to accelerate executive decision-making, cutting time-to-insight by 25%.
+  Built org-wide dashboard strategy using Google Sheets & Tableau, reducing executive decision-making time by 25% and automating reporting workflows across HR and Finance.
 
 - **Jun 2024 – Dec 2024 | Product Owner Intern, Public Consulting Group**  
-  Led CRM feature rollout and BI transformation-launched 3 Power BI dashboards, streamlined UAT, and improved data visibility for 4 departments.
+  Led CRM feature rollout using Power Platform (Power BI, Power Automate), launched 3 dashboards, and improved UAT efficiency by 30% across 4 departments.
 
 - **Jan 2024 – May 2024 | Product Manager, Koa Health**  
-  Improved retention by 12% via cohort-based A/B testing; helped shape product roadmap through behavioral and CRM analysis.
+  Improved CRM campaign retention by 12% through A/B testing and cohort analysis; leveraged SQL and Tableau to inform roadmap decisions and user behavior insights.
 
 - **Aug 2023 – Dec 2023 | Product Manager, ClassBank**  
-  Delivered competitor benchmarking report and GTM strategy adopted by ClassBank’s leadership for EdTech pilot adoption.
+  Delivered competitive benchmarking report and GTM strategy adopted for pilot; used primary interviews, SWOT, and pricing analysis to shape product-market fit.
 
 - **Dec 2023 – Jan 2024 | Product Manager, Capchase**  
-  Developed SaaS revenue lifecycle models from market and stakeholder research, unlocking a 10% customer acquisition lift.
+  Modeled SaaS revenue lifecycle using Python and Excel from market research and stakeholder interviews, driving a 10% lift in customer acquisition.
 
 - **Oct 2023 – Dec 2023 | Strategy Consultant, Sub22 Technologies**  
-  Designed a Medicare compliance strategy that reduced regulatory risk exposure by 30%.
+  Built Medicare compliance strategy using policy research and stakeholder mapping, reducing regulatory risk by 30%.
 
 - **Aug 2023 – Oct 2023 | Strategy Consultant, Johns Hopkins Hospital**  
-  Identified a 40% compliance gap in sterilization processes through root cause analysis; introduced SOP updates and pre-op checklists, reducing surgical turnover time and improving operational efficiency.
+  Identified 40% sterilization compliance gap via process mapping and root cause analysis; implemented SOP updates using Visio and Excel to reduce turnover time.
 
 - **Mar 2022 – Jul 2023 | Business Analyst, Tiger Analytics**  
-  Owned exception reporting and Snowflake pipelines powering $500K+ in data-driven supply chain decisions; slashed manual reporting by 90%.
+  Developed Tableau dashboards and Snowflake data pipelines for supply chain KPIs; reduced manual reporting by 90% and enabled $500K+ in data-backed decisions.
 
 - **Dec 2019 – Feb 2022 | Project Management Associate, IQVIA**  
-  Led clinical data governance and automation for healthcare analytics tools across 8+ programs; improved data accuracy by 40%.
+  Automated clinical data quality checks using SQL, Excel VBA, and Tableau; boosted reporting accuracy by 40% across 8+ healthcare analytics programs.
 
 ---
 
