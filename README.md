@@ -52,19 +52,27 @@ I bring a rare blend of strategic thinking, executional rigor, and technical flu
 
 ---
 
-### 🧰 What I Bring to the Table
+<h3>🧰 What I Bring to the Table</h3>
 
-**Product Strategy & Delivery**  
-Agile (Scrum/Kanban), Roadmapping, User Stories, GTM, UAT/QA, Feature Prioritization, Stakeholder Alignment, Cross-functional Leadership
+<table>
+  <tr>
+    <td><strong>🚀 Product Strategy & Delivery</strong></td>
+    <td><strong>📊 Data & BI Analytics</strong></td>
+  </tr>
+  <tr>
+    <td>Agile (Scrum/Kanban), Roadmapping, User Stories,<br>GTM, UAT/QA, Prioritization, Stakeholder Alignment</td>
+    <td>SQL, Python (Pandas, Matplotlib), Tableau, Power BI,<br>Snowflake, A/B Testing, Root Cause Analysis</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools & Platforms</strong></td>
+    <td><strong>🌍 Sectors</strong></td>
+  </tr>
+  <tr>
+    <td>Microsoft Dynamics 365, Aha!, JIRA, Confluence,<br>Power Automate, Git, AWS, Google Analytics</td>
+    <td>Healthcare IT, SaaS, Clinical Research, Public Sector,<br>CRM, EdTech, Financial Analytics, Real Estate</td>
+  </tr>
+</table>
 
-**Data & BI Analytics**  
-SQL, Python (Pandas, Matplotlib), Tableau, Power BI, Snowflake, A/B Testing, Regression, Root Cause Analysis, Automated Dashboards
-
-**Tools & Platforms**  
-Microsoft Dynamics 365, Aha!, JIRA, Confluence, Power Automate, Git, Google Analytics, AWS, Looker Studio, Remedyforce
-
-**Sectors**  
-Healthcare IT, SaaS, CRM Systems, Clinical Research, Public Sector, EdTech, Financial Analytics, Real Estate Data
 
 ---
 
