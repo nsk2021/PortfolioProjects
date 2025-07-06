@@ -55,13 +55,31 @@ Welcome! This repository features a curated collection of data analytics project
 - **Screenshot not embedded due to format**: Open the PDF in the repo to view visuals.
 
 ---
+## 🐍 Python Projects
+
+Each project demonstrates real-world use of Python for web scraping, automation, and data storytelling.
+
+### 1. 🛒 Amazon Web Scraper  
+Scrapes real-time product listings from Amazon using `BeautifulSoup` and `requests`. Extracts product titles, prices, and ratings into structured CSV format.  
+- **Insight**: Revealed price volatility for tech accessories and identified products frequently listed with promotional pricing.
+
+### 2. 🔄 Automated API Extraction  
+Automates data retrieval from a live API, appends new data to an existing dataset, and performs light transformation for export. Simulates a real-world data pipeline.  
+- **Insight**: Enabled continuous time-series tracking of API metrics without manual intervention, improving reporting efficiency.
+
+### 3. 🎬 Movie Portfolio Analyzer  
+Analyzes top-rated movie data using `Pandas` and `Matplotlib` to uncover genre trends, rating distributions, and studio performance.  
+- **Insight**: Found that drama and biography genres dominate high IMDB ratings, while a few key studios account for the majority of top-performing films.
+
+---
 
 ## 🛠 Tools & Skills Demonstrated
 
-- **SQL (MS SQL Server)**
-- **Data Cleaning & Wrangling**
+- - **SQL (MS SQL Server)**
+- **Python (Data Wrangling, APIs, Automation)**
 - **Data Visualization**: Tableau, Looker Studio
 - **Exploratory Data Analysis**
+- **Web Scraping & Scripting**
 - **KPI Development & Insight Generation**
 - **Storytelling with Data**
 
