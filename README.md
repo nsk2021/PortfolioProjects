@@ -92,7 +92,7 @@ Identified post-pandemic price surges and inventory shortages in major U.S. metr
 
 ## 🛠 Tools & Skills Demonstrated
 
-- - **SQL (MS SQL Server)**
+- **SQL (MS SQL Server)**
 - **Python (Data Wrangling, APIs, Automation)**
 - **Data Visualization**: Tableau, Looker Studio
 - **Exploratory Data Analysis**
