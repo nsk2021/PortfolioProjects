@@ -168,3 +168,49 @@ I bring a rare blend of strategic thinking, executional rigor, and technical flu
 </ul>
 
 <p>Thanks for checking out my work! Feel free to explore, collaborate, or connect!</p>
+
+Recent Portfolio Projects
+
+<h2>🏥 Hospital Analytics Portfolio Project – Massachusetts General Hospital</h2>
+<p>
+As a newly onboarded <strong>Data Analyst</strong> at a healthcare analytics consulting firm, I was tasked with helping <strong>Massachusetts General Hospital</strong> prepare their <strong>annual performance report</strong>. The goal was to turn raw hospital data into actionable insights to <strong>optimize patient care</strong> and <strong>reduce operational costs</strong>.
+</p>
+
+<h3>🎯 Project Objectives</h3>
+<ul>
+  <li><strong>Encounters Overview</strong> – Analyze yearly trends in encounter volume, types, and duration</li>
+  <li><strong>Cost & Coverage Insights</strong> – Assess insurance coverage, frequent procedures, and average claim costs</li>
+  <li><strong>Patient Behavior Analysis</strong> – Evaluate readmissions, visit patterns, and length of stay</li>
+</ul>
+
+<h3>📊 Objective 1: Encounters Overview</h3>
+<ul>
+  <li><strong>Annual Encounter Volume:</strong> Calculated total number of patient encounters per year using <code>YEAR(START)</code> and <code>COUNT(ID)</code></li>
+  <li><strong>Encounter Class Breakdown:</strong> Determined class-wise percentage distribution (ambulatory, emergency, inpatient, etc.)</li>
+  <li><strong>Encounter Length Analysis:</strong> Identified the percentage of encounters lasting over and under 24 hours using <code>TIMESTAMPDIFF()</code></li>
+</ul>
+<p><strong>💡 Insight:</strong> A significant share of emergency encounters lasted under 24 hours, prompting an efficiency review in urgent care.</p>
+
+<h3>💰 Objective 2: Cost & Coverage Insights</h3>
+<ul>
+  <li><strong>Zero Coverage Detection:</strong> Identified % of encounters with <code>PAYER_COVERAGE = 0</code> for financial vulnerability mapping</li>
+  <li><strong>Top Procedures by Volume & Cost:</strong> Used <code>GROUP BY</code> and <code>AVG(BASE_COST)</code> to find high-frequency and high-cost procedures</li>
+  <li><strong>Payer Performance:</strong> Calculated average total claim cost across payers using <code>JOIN</code> between <code>payers</code> and <code>encounters</code></li>
+</ul>
+<p><strong>💡 Insight:</strong> High-cost, low-volume procedures were found disproportionately linked to patients with incomplete coverage.</p>
+
+<h3>👥 Objective 3: Patient Behavior Analysis</h3>
+<ul>
+  <li><strong>Quarterly Patient Visits:</strong> Tracked <code>COUNT(DISTINCT patient)</code> per quarter for resource planning</li>
+  <li><strong>Readmission Analysis:</strong> Used <code>LEAD()</code> and <code>DATEDIFF()</code> to identify readmissions within 30 days</li>
+  <li><strong>Frequent Readmitters:</strong> Ranked patients by readmission frequency to identify care continuity gaps</li>
+</ul>
+<p><strong>💡 Insight:</strong> 5% of patients accounted for 22% of readmissions, suggesting a need for targeted intervention programs.</p>
+
+<h3>🛠️ Tools & Skills Used</h3>
+<ul>
+  <li><strong>SQL:</strong> Joins, Window Functions, CTEs, Aggregations, Date Functions</li>
+  <li><strong>Healthcare Domain Knowledge:</strong> Patient journeys, payer models, clinical procedure codes</li>
+  <li><strong>Data Storytelling:</strong> Presented insights with actionable suggestions for operational teams</li>
+</ul>
+
