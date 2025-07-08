@@ -169,9 +169,9 @@ I bring a rare blend of strategic thinking, executional rigor, and technical flu
 
 <p>Thanks for checking out my work! Feel free to explore, collaborate, or connect!</p>
 
-Recent Portfolio Projects
+<h1>Recent Portfolio Projects</h1>
 
-<h2>🏥 Hospital Analytics Portfolio Project – Massachusetts General Hospital</h2>
+<h2>🏥 Hospital Analytics Portfolio Project (Maven Analytics) – Massachusetts General Hospital</h2>
 <p>
 As a newly onboarded <strong>Data Analyst</strong> at a healthcare analytics consulting firm, I was tasked with helping <strong>Massachusetts General Hospital</strong> prepare their <strong>annual performance report</strong>. The goal was to turn raw hospital data into actionable insights to <strong>optimize patient care</strong> and <strong>reduce operational costs</strong>.
 </p>
@@ -189,7 +189,6 @@ As a newly onboarded <strong>Data Analyst</strong> at a healthcare analytics con
   <li><strong>Encounter Class Breakdown:</strong> Determined class-wise percentage distribution (ambulatory, emergency, inpatient, etc.)</li>
   <li><strong>Encounter Length Analysis:</strong> Identified the percentage of encounters lasting over and under 24 hours using <code>TIMESTAMPDIFF()</code></li>
 </ul>
-<p><strong>💡 Insight:</strong> A significant share of emergency encounters lasted under 24 hours, prompting an efficiency review in urgent care.</p>
 
 <h3>💰 Objective 2: Cost & Coverage Insights</h3>
 <ul>
@@ -197,7 +196,6 @@ As a newly onboarded <strong>Data Analyst</strong> at a healthcare analytics con
   <li><strong>Top Procedures by Volume & Cost:</strong> Used <code>GROUP BY</code> and <code>AVG(BASE_COST)</code> to find high-frequency and high-cost procedures</li>
   <li><strong>Payer Performance:</strong> Calculated average total claim cost across payers using <code>JOIN</code> between <code>payers</code> and <code>encounters</code></li>
 </ul>
-<p><strong>💡 Insight:</strong> High-cost, low-volume procedures were found disproportionately linked to patients with incomplete coverage.</p>
 
 <h3>👥 Objective 3: Patient Behavior Analysis</h3>
 <ul>
@@ -205,7 +203,6 @@ As a newly onboarded <strong>Data Analyst</strong> at a healthcare analytics con
   <li><strong>Readmission Analysis:</strong> Used <code>LEAD()</code> and <code>DATEDIFF()</code> to identify readmissions within 30 days</li>
   <li><strong>Frequent Readmitters:</strong> Ranked patients by readmission frequency to identify care continuity gaps</li>
 </ul>
-<p><strong>💡 Insight:</strong> 5% of patients accounted for 22% of readmissions, suggesting a need for targeted intervention programs.</p>
 
 <h3>🛠️ Tools & Skills Used</h3>
 <ul>
